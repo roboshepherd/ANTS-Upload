@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.9)  14 MAY 2010 16:23
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.9)  14 MAY 2010 18:24
 entering extended mode
  %&-line parsing enabled.
 **ants2010-final.tex
@@ -295,9 +295,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 113.
 File: ./images/VSP.eps Graphic file (type eps)
  <./images/VSP.eps>
-
-LaTeX Warning: Reference `sec:afm:vms' on page 4 undefined on input line 140.
-
 [4] [5] [6]
 File: ./images/RIL-Expt-Setup1.eps Graphic file (type eps)
  <./images/RIL-Expt-Setup1.eps> [7] [8] [9]
@@ -351,11 +348,7 @@ Overfull \hbox (4.1385pt too wide) in paragraph at lines 332--347
 [][]   [] 
  []
 
-[10] [11] (./ants2010-final.bbl) [12] (./ants2010-final.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[10] [11] (./ants2010-final.bbl) [12] (./ants2010-final.aux) ) 
 Here is how much of TeX's memory you used:
  1337 strings out of 95087
  17139 string characters out of 1183278
@@ -363,6 +356,6 @@ Here is how much of TeX's memory you used:
  4513 multiletter control sequences out of 10000+50000
  32277 words of font info for 77 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
- 29i,10n,24p,1206b,331s stack positions out of 5000i,500n,6000p,200000b,5000s
+ 29i,10n,24p,1205b,331s stack positions out of 5000i,500n,6000p,200000b,5000s
 
-Output written on ants2010-final.dvi (12 pages, 46096 bytes).
+Output written on ants2010-final.dvi (12 pages, 46328 bytes).
