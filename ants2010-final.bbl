@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bonabeau+1999}
+Bonabeau, E., Dorigo, M., Theraulaz, G.:
+\newblock Swarm intelligence: from natural to artificial systems.
+\newblock Oxford University Press (1999)
+
+\bibitem{Gerkey+2004}
+Gerkey, B.P., Mataric, M.J.:
+\newblock A formal analysis and taxonomy of task allocation in multi-robot
+  systems.
+\newblock The International Journal of Robotics Research \textbf{23} (2004)
+  939
+
+\bibitem{Parker2008}
+Parker, L.E.:
+\newblock Distributed intelligence: Overview of the field and its application
+  in multi-robot systems.
+\newblock Journal of Physical Agents, special issue on multi-robot systems
+  \textbf{vol. 2}(no. 2) (2008)  5--14
+
+\bibitem{Lerman+2006}
+Lerman, K., Jones, C., Galstyan, A., Mataric, M.J.:
+\newblock Analysis of dynamic task allocation in multi-robot systems.
+\newblock The International Journal of Robotics Research \textbf{25} (2006)
+  225
+
+\bibitem{Shen+2001}
+Shen, W., Norrie, D.H., Barthes, J.P.:
+\newblock Multi-agent systems for concurrent intelligent design and
+  manufacturing.
+\newblock Taylor \& Francis, London (2001)
+
+\bibitem{Dias+2006}
+Dias, M.B., Zlot, R.M., Kalra, N., Stentz, A.:
+\newblock Market-based multirobot coordination: A survey and analysis.
+\newblock Proceedings of the IEEE \textbf{94} (2006)  1257--1270
+
+\bibitem{Liu+2007}
+Liu, W., Winfield, A.F.T., Sa, J., Chen, J., Dou, L.:
+\newblock Towards energy optimization: Emergent task allocation in a swarm of
+  foraging robots.
+\newblock Adaptive Behavior \textbf{15}(3) (2007)  289--305
+
+\bibitem{Sayer+1992}
+Sayer, A., Walker, R.:
+\newblock The new social economy : reworking the division of labor.
+\newblock Blackwell, Oxford (1992) 19920311.
+
+\bibitem{Kogut2000}
+Kogut, B.:
+\newblock The network as knowledge: generative rules and the emergence of
+  structure.
+\newblock Strategic Management Journal \textbf{21}(3) (2000)  405--425
+
+\bibitem{Elsa}
+Arcaute, E., Christensen, K., Sendova-Franks, A., Dahl, T., Espinosa, A.,
+  Jensen, H.J.:
+\newblock Division of labour in ant colonies in terms of attractive fields.
+\newblock In: Ecol. Complex. (2008)
+
+\bibitem{SwisTrack}
+Lochmatter, T., Roduit, P., Cianci, C., Correll, N., Jacot, J., Martinoli, A.:
+\newblock Swistrack-a flexible open source tracking software for multi-agent
+  systems.
+\newblock In: IEEE/RSJ International Conference on Intelligent Robots and
+  Systems, 2008. IROS 2008. (2008)  4004--4010
+
+\end{thebibliography}
