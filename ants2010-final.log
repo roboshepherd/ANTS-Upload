@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.9)  14 MAY 2010 18:24
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2009.12.9)  15 MAY 2010 23:47
 entering extended mode
  %&-line parsing enabled.
 **ants2010-final.tex
@@ -232,119 +232,108 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 \big@size=\dimen128
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
 
 
-Package mathptmx Warning: There are no bold math fonts on input line 24.
+Package mathptmx Warning: There are no bold math fonts on input line 23.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
 [1
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 67.
  [2]
 File: ./images/AFM-Diag2.eps Graphic file (type eps)
  <./images/AFM-Diag2.eps>
 File: ./images/CentralizedComm.eps Graphic file (type eps)
  <./images/CentralizedComm.eps>
-Overfull \hbox (4.1385pt too wide) in paragraph at lines 81--95
+Overfull \hbox (4.1385pt too wide) in paragraph at lines 80--94
 [][]   [] 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 10
-0.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 99
+.
 (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 10
-0.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 99
+.
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 10
-0.
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 99
+.
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 10
-0.
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 99
+.
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 100.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 100.
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ¦ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ¦ in font ptmr7t!
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
  [3]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 113.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 113.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 112.
 File: ./images/VSP.eps Graphic file (type eps)
  <./images/VSP.eps>
-[4] [5] [6]
+[4] [5]
 File: ./images/RIL-Expt-Setup1.eps Graphic file (type eps)
- <./images/RIL-Expt-Setup1.eps> [7] [8] [9]
+ <./images/RIL-Expt-Setup1.eps> [6] [7] [8] [9]
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 279.
+LaTeX Font Warning: Command \small invalid in math mode on input line 278.
 
-LaTeX Font Info:    Calculating math sizes for size <> on input line 282.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 281.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 282.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 281.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <0.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 282.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 281.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <0.6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 282.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 281.
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 287.
+LaTeX Font Warning: Command \small invalid in math mode on input line 286.
 
 File: images/PlotUrgencyLog-2010May10-115549.eps Graphic file (type eps)
 <images/PlotUrgencyLog-2010May10-115549.eps>
 File: images/TaskUrgencyStat.eps Graphic file (type eps)
  <images/TaskUrgencyStat.eps>
-Overfull \hbox (4.1385pt too wide) in paragraph at lines 294--309
+Overfull \hbox (4.1385pt too wide) in paragraph at lines 298--313
 [][]   [] 
  []
 
 File: images/Global-SignalingFreqStat.eps Graphic file (type eps)
 <images/Global-SignalingFreqStat.eps>
-Overfull \hbox (3.22539pt too wide) in paragraph at lines 316--318
+Overfull \hbox (3.22539pt too wide) in paragraph at lines 320--322
  [][] 
  []
 
 File: images/WorkerRatio.eps Graphic file (type eps)
 <images/WorkerRatio.eps>
-Overfull \hbox (4.1385pt too wide) in paragraph at lines 313--329
+Overfull \hbox (4.1385pt too wide) in paragraph at lines 317--333
 [][]   [] 
  []
 
 File: images/TaskSpecialization-task3-10may-1.eps Graphic file (type eps)
 <images/TaskSpecialization-task3-10may-1.eps>
-Overfull \hbox (19.9857pt too wide) in paragraph at lines 334--335
+Overfull \hbox (19.9857pt too wide) in paragraph at lines 338--339
  [][] 
  []
 
 File: images/RobotSensitizationStat-Total-50steps.eps Graphic file (type eps)
 <images/RobotSensitizationStat-Total-50steps.eps>
-Overfull \hbox (3.22539pt too wide) in paragraph at lines 343--344
- [][] 
- []
-
-
-Overfull \hbox (4.1385pt too wide) in paragraph at lines 332--347
+Overfull \hbox (4.1385pt too wide) in paragraph at lines 336--351
 [][]   [] 
  []
 
@@ -358,4 +347,4 @@ Here is how much of TeX's memory you used:
  28 hyphenation exceptions out of 8191
  29i,10n,24p,1205b,331s stack positions out of 5000i,500n,6000p,200000b,5000s
 
-Output written on ants2010-final.dvi (12 pages, 46328 bytes).
+Output written on ants2010-final.dvi (12 pages, 46188 bytes).
