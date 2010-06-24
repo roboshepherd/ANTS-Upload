@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{1}
 
 \bibitem{Bonabeau+1999}
 Bonabeau, E., Dorigo, M., Theraulaz, G.:
@@ -41,17 +41,6 @@ Liu, W., Winfield, A.F.T., Sa, J., Chen, J., Dou, L.:
 \newblock Towards energy optimization: Emergent task allocation in a swarm of
   foraging robots.
 \newblock Adaptive Behavior \textbf{15}(3) (2007)  289--305
-
-\bibitem{Sayer+1992}
-Sayer, A., Walker, R.:
-\newblock The new social economy : reworking the division of labor.
-\newblock Blackwell, Oxford (1992) 19920311.
-
-\bibitem{Kogut2000}
-Kogut, B.:
-\newblock The network as knowledge: generative rules and the emergence of
-  structure.
-\newblock Strategic Management Journal \textbf{21}(3) (2000)  405--425
 
 \bibitem{Elsa}
 Arcaute, E., Christensen, K., Sendova-Franks, A., Dahl, T., Espinosa, A.,
